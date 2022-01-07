@@ -1,25 +1,25 @@
-#Projeto para desenvolvimento das seguintes questões:
+# Projeto para desenvolvimento das seguintes questÃµes:
 
-###1- Dados dois números inteiros A e B, crie um terceiro inteiro C seguindo as seguintes regras:
+### 1- Dados dois nÃºmeros inteiros A e B, crie um terceiro inteiro C seguindo as seguintes regras:
 
-- O primeiro número de C é o primeiro número de A;
-- O segundo número de C é o primeiro número de B;
-- O terceiro número de C é o segundo número de A;
-- O quarto número de C é o segundo número de B; Assim sucessivamente...
-- Caso os números de A ou B sejam de tamanhos diferentes, completar C com o restante dos
-  números do inteiro maior. Ex: A = 10256, B = 512, C deve ser 15012256.
+- O primeiro nÃºmero de C Ã© o primeiro nÃºmero de A;
+- O segundo nÃºmero de C Ã© o primeiro nÃºmero de B;
+- O terceiro nÃºmero de C Ã© o segundo nÃºmero de A;
+- O quarto nÃºmero de C Ã© o segundo nÃºmero de B; Assim sucessivamente...
+- Caso os nÃºmeros de A ou B sejam de tamanhos diferentes, completar C com o restante dos
+  nÃºmeros do inteiro maior. Ex: A = 10256, B = 512, C deve ser 15012256.
 - Caso C seja maior que 1.000.000, retornar -1
   Desenvolva um algoritmo que atenda a todos os requisitos acima.
 
 
-###2- Considerando a estrutura de uma árvore binária:
+### 2- Considerando a estrutura de uma Ã¡rvore binÃ¡ria:
 public class BinaryTree {
   int valor;
   BinaryTree left;
   BinaryTree right;
 }
 
-Desenvolva um método que dado um nó da árvore calcule a soma de todos os nós subsequentes.
+Desenvolva um mÃ©todo que dado um nÃ³ da Ã¡rvore calcule a soma de todos os nÃ³s subsequentes.
 
 
-####Para executar o projeto, basta rodar os testes unitários.
+#### Para executar o projeto, basta rodar os testes unitÃ¡rios.
